@@ -1,0 +1,25 @@
+# Game files and CD data are copyrighted - never commit them.
+*.EXE
+*.exe
+*.DLL
+*.dll
+*.DRV
+*.drv
+*.DAT
+*.HLP
+*.MID
+*.OPS
+*.INI
+*.INF
+*.bin
+*.iso
+*.zip
+READ.ME
+RESOURCE.000
+BITMAPS/
+VIDEOS/
+MUSIC/
+Manual/
+otvdm/
+cd_tmp/
+otvdm_tmp/
