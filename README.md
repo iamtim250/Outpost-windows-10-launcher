@@ -14,8 +14,9 @@ ISO image of it). No game files are included here — only the launcher.
 
 ## How to use
 
-1. Download this repository (green **Code** button → **Download ZIP**) and unzip
-   it somewhere permanent, e.g. `C:\Games\Outpost`.
+1. **[Download Outpost-Launcher.zip](https://github.com/iamtim250/Outpost-windows-10-launcher/releases/latest/download/Outpost-Launcher.zip)**
+   (always the newest version), then right-click it → **Extract All…** and put
+   the folder somewhere permanent, e.g. `C:\Games\Outpost`.
 2. Put your Outpost CD in the drive, or make sure the CD image (`Outpost.bin`
    or `Outpost.iso`) is in that folder, your Downloads, or your Desktop.
 3. Double-click **`Play Outpost.bat`**.
@@ -59,7 +60,8 @@ Manager), double-click **`Fix my screen.bat`**.
 
 - **"VCRUNTIME140.dll is missing"** — install the Microsoft Visual C++
   Redistributable, 32-bit (x86): <https://aka.ms/vs/17/release/vc_redist.x86.exe>
-- **"Windows protected your PC"** — click *More info* → *Run anyway*. otvdm is
+- **"Windows protected your PC"** — Windows shows this for any script
+  downloaded from the internet. Click *More info* → *Run anyway*. otvdm is
   open source and widely used but not code-signed.
 - **Intro movie / animations error out or show black** — open `OUTPOST.INI` in
   Notepad and change `movies=on` to `movies=off` (and if needed `anims=on` to
