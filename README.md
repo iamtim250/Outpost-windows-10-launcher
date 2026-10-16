@@ -14,7 +14,7 @@ ISO image of it). No game files are included here — only the launcher.
 
 ## How to use
 
-1. **[Download Outpost-Launcher.zip](https://github.com/iamtim250/Outpost-windows-10-launcher/releases/latest/download/Outpost-Launcher.zip)**
+1. **[Download the launcher (ZIP)](https://github.com/iamtim250/Outpost-windows-10-launcher/archive/refs/heads/main.zip)**
    (always the newest version), then right-click it → **Extract All…** and put
    the folder somewhere permanent, e.g. `C:\Games\Outpost`.
 2. Put your Outpost CD in the drive, or make sure the CD image (`Outpost.bin`
